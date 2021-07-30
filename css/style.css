@@ -1,0 +1,66 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common styles or utilities */
+body{
+   font-family: 'Poppins', sans-serif;
+}
+
+.custom-header-bg{
+   background: hsla(197, 37%, 24%, 1);
+}
+
+.custom-text-color{
+   color: hsla(0, 0%, 88%, 1);
+   font-size: 16px;
+   font-weight: 300;
+}
+
+.custom-btn{
+   background: hsla(12, 76%, 61%, 1);
+   border-radius: 5px;
+   padding: 10px;
+   width: 168px;
+   height: 44px;
+}
+
+.custom-bike-text{
+    color:hsla(12, 76%, 61%, 1);
+}
+
+.custom-features-bike img{
+    filter:grayscale(90%);
+}
+
+.custom-card-text{
+    color:#6C6C6C;
+}
+
+.custom-subscribe-bg{
+    background: lavender;
+}
+
+.custom-card-footer-text{
+    color:#23A6F0;
+}
+
+.custom-client-img{
+    width: 149px;
+    height:149px;
+}
+
+.custom-star {
+    width: 22px;
+    height: 22px;
+    color:hsla(12, 76%, 61%, 1);
+}
+
+.custom-empty-star{
+    width: 22px;
+    height: 22px;
+    color:hsla(12, 76%, 61%, 1);
+}
+
+.custom-accordion{
+    border: 1px solid hsla(215, 83%, 91%, 1);
+}
